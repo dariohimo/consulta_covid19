@@ -1,0 +1,43 @@
+/*<div class="cases"></div>
+<div class="deaths"></div>
+<div class="recovered"></div>
+
+*/
+
+#todo{
+    background-color: cyan;
+    color: rgb(31, 9, 230);
+    border-radius: 10px;
+    height: 20px;
+}
+
+.authors {
+    background-color: rgb(106, 80, 255);
+    color: rgb(244, 245, 245);
+    width: 20%;
+    font-size: large;
+}
+
+.cases {
+    background-color: rgb(81, 133, 181);
+    color: cyan;
+    width: 20%;
+    font-size: large;
+}
+
+.deaths {
+    background-color: rgb(106, 243, 27);
+    color: rgb(238, 51, 18);
+    width: 20%;
+    font-size: large;
+}
+.recovered {
+    background-color: rgb(115, 230, 238);
+    color: rgb(247, 19, 216);
+    width: 20%;
+    font-size: large;
+}
+
+img {
+    background-repeat: no-repeat;
+}
